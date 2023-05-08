@@ -1,6 +1,6 @@
 # Fechas de Exámenes (Aula 701, 11AM):
 Primer Parcial: **31/03/2023**
-Segundo Parcial: **15/05/2023**
+Segundo Parcial: **12/05/2023**
 Tercer Parcial: **16/06/2023**
 Cuarto Parcial: **30/06/2023**
 
