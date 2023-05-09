@@ -29,10 +29,16 @@ para todo c y d escalares y todo u en V, (c + d)u = cu + du.
 
 Espero que esto te ayude.
 
+&nbsp;
+&nbsp;
+&nbsp;
 # Base de un Espacio Vectorial 
 Se define como base de un espacio vectorial a un conjunto de vectores linealmente independientes tales que a partir de una combinación lineal de ellos se puede generar cualquier vector de ese espacio vectorial.
 
-Un subconjunto finito de vectores se llama base si los vectores que lo forman son linealmente independientes y forman un sistema generador del espacio. Con sistema generador nos referimos a que puede generar cualquier vector de ese espacio.
+Un subconjunto finito de vectores se llama base si los vectores que lo forman son:
+- Linealmente independientes.
+- Generadores de cualquier vector del espacio vectorial.
+- Coincide número de vectores de la base con la dimensión del espacio vectorial.
 
 La base es importante porque nos permite pensar en cualquier espacio vectorial "como si fuera F n" y nos permite pasar de un espacio vectorial a otro mediante transformaciones lineales.
 
