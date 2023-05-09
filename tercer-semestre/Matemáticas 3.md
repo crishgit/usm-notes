@@ -8,6 +8,7 @@ Cuarto Parcial: **30/06/2023**
 ## 1) Primer Parcial:
 - [[Vectores y Espacios Vectoriales]]
 - [[Geometría Vectorial]]
+- [Geometría Vectorial](./Clases/geometria-vectorial.md)
 - [[Matrices]]
 
 ## 2) Segundo Parcial:
@@ -31,7 +32,17 @@ Cuarto Parcial: **30/06/2023**
 - [[Cambio de variable en integrales múltiples]]
 - [[Aplicaciones Integrales Triples]]
 
-# Parciales Anteriores
+# Parciales 
+#### Primer Parcial
+![Primer parcial del semestre](tercer-semestre/Clases/imagenes/parcial-uno-cero.jpeg)
+![Primer Parcial (Pasado 1)](tercer-semestre/Clases/imagenes/parcial-uno-uno.jpeg)
+![Primer Parcial (Pasado 2)](tercer-semestre/Clases/imagenes/parcial-uno-dos.jpeg)
+
+#### Segundo Parcial 
+![Segundo Parcial (Pasado 1)](tercer-semestre/Clases/imagenes/parcial-dos-uno.jpeg)
+![Segundo Parcial (Pasado 2)](tercer-semestre/Clases/imagenes/parcial-dos-dos.jpeg)
+![Segundo Parcial (Pasado 3)](tercer-semestre/Clases/imagenes/parcial-dos-tres.jpeg)
+
 
 # Contacto
 Grupo de Telegram de matemáticas 3
