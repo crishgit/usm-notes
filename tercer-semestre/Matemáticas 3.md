@@ -6,14 +6,14 @@ Cuarto Parcial: **30/06/2023**
 
 # Temario
 ## 1) Primer Parcial:
-- [[Vectores y Espacios Vectoriales]]
-- [[Geometría Vectorial]]
+- [Vectores](./Clases/vectores.md)
+- [Espacios Vectoriales](./Clases/espacios-vectoriales.md)
+- [Figuras geométricas](./Clases/figuras-geometricas.md)
 - [Geometría Vectorial](./Clases/geometria-vectorial.md)
-- [[Matrices]]
+- [Matrices y Determinantes](./Clases/matrices-determinantes.md)
+- [Sistema de Ecuaciones Lineales](./Clases/sistema-de-ecuaciones-lineales.md)
 
 ## 2) Segundo Parcial:
-- [[Determinantes]]
-- [[Sistemas de Ecuaciones Lineales]]
 - [[Transformaciones Lineales]]
 - [[Geometría Diferencial]]
 - [[Funciones vectoriales de variable escalar y sus aplicaciones en geometría]]
