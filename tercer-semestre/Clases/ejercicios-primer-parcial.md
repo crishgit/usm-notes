@@ -82,3 +82,106 @@ Y conociendo $T$, podemos conocer las coordenadas de $S$.
 &nbsp;
 &nbsp;
 # Práctica 2
+(Tanto para este ejercicio como para el siguiente, el punto clave es que no se debe encontrar contradicciones al momento de buscar los valores de las fórmulas. Si hay contradicciones en los valores, entonces las reglas no se cumplen.)
+
+Determine si los vectores $\vec{V} = (3, -1)$ y $\vec{U} = (-9, 3)$ son paralelos.
+En dado caso que sean paralelos, debe existir una constante $k$ tal que $\vec{V} = k\vec{U}$, por tanto colocamos nuestro sistema de ecuaciones:
+$$
+\begin{cases}
+    3 = -9k \\
+    -1 = 3k
+\end{cases}
+$$
+$$
+\begin{cases}
+    k = \frac{3}{-9} \\
+    k = \frac{-1}{3}
+\end{cases}
+$$
+$$
+\begin{cases}
+    k = -\frac{1}{3} \\
+    k = -\frac{1}{3}
+\end{cases}
+$$
+Ambos vectores son paralelos ya que tienen la misma pendiente. El vector $\vec{V}$ es un múltiplo escalar del vector $\vec{U}$, de la forma: $\vec{V} = -\frac{1}{3} \vec{U}$
+**<center> Terminado </center>**
+
+&nbsp; 
+&nbsp;
+&nbsp;
+# Práctica 3
+Indicar si el vector $\vec{W}$ pertenece al plano formado por los vectores $\vec{U}$ y $\vec{V}$.
+$$
+\vec{W} = (3, 3, 3) \quad 
+\vec{U} = (1, 0, 1) \quad
+\vec{V} = (0, 2, 0)
+$$
+Para que el vector $\vec{W}$ pertenezca al plano formado por los vectores $\vec{U}$ y $\vec{V}$, debe existir una combinación lineal de $\vec{U}$ y $\vec{V}$ que nos de $\vec{W}$.
+$$
+\vec{W} = \alpha\vec{U} + \beta\vec{V}
+$$
+$$
+[3,\quad 3,\quad 3] = [\alpha1,\quad 0,\quad \alpha1] + [0,\quad \beta2,\quad 0]
+$$
+$$
+[3,\quad 3,\quad 3] = [\alpha1 + 0,\quad 0 + \beta2,\quad \alpha1 + 0]
+$$
+$$
+[3,\quad 3,\quad 3] = [\alpha1,\quad \beta2,\quad \alpha1]
+$$
+Y nos queda el siguiente sistema de ecuaciones:
+$$
+\begin{cases}
+    3 = \alpha \\
+    3 = 2\beta \\
+    3 = \alpha
+\end{cases}
+$$
+Donde:
+$$
+\begin{cases}
+    \alpha = 3 \\
+    \beta = \frac{3}{2}
+\end{cases}
+$$
+
+Por tanto, el vector $\vec{W}$ pertenece al plano formado por los vectores $\vec{U}$ y $\vec{V}$. En la igualdad: $\vec{W} = 3\vec{U} + \frac{3}{2}\vec{V}$
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 4
+Encontrar un vector en la misma dirección que $\vec{V}(-2,\quad 4, \quad 2)$ pero longitud igual a 6.
+
+Método: 
+Encontramos el versor de $\vec{V}$ y lo multiplicamos por 6. Esto se debe que el versor $\hat{V}$ va en la dirección de $\vec{V}$ y como es módulo 1, multiplicarlo por 6 lo dejará en módulo 6.
+
+Respuesta:
+Calculamos el vector unitario $\hat{V}$
+$$
+|\vec{V}| = \sqrt{(-2)^2 + 4^2 + 2^2} = \sqrt{24} = 2\sqrt{6} 
+$$
+$$
+\hat{V} = \frac{\vec{V}}{|\vec{V}|} = \frac{1}{2\sqrt{6}}(-2,\quad 4, \quad 2) = (-\frac{1}{\sqrt{6}},\quad \frac{2}{\sqrt{6}}, \quad \frac{1}{\sqrt{6}})
+$$
+Y ahora multiplicamos el versor por 6 para obtener el vector en la misma dirección que $\vec{V}$ pero con longitud 6.
+$$
+6\hat{V} = 6(-\frac{1}{\sqrt{6}},\quad \frac{2}{\sqrt{6}}, \quad \frac{1}{\sqrt{6}}) = (-\sqrt{6},\quad 2\sqrt{6}, \quad \sqrt{6})
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
