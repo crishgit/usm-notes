@@ -171,6 +171,69 @@ $$
 6\hat{V} = 6(-\frac{1}{\sqrt{6}},\quad \frac{2}{\sqrt{6}}, \quad \frac{1}{\sqrt{6}}) = (-\sqrt{6},\quad 2\sqrt{6}, \quad \sqrt{6})
 $$
 
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 5 
+Encontrar un vector perpendicular a $\vec{U}(1,\quad 2, \quad 3)$ y $\vec{V}(2,\quad 3, \quad 4)$.
+
+Método:
+Encontramos el producto cruz de $\vec{U}$ y $\vec{V}$, y el resultado será un vector perpendicular a ambos.
+
+Respuesta:
+$$
+\vec{U} \times \vec{V} =
+\begin{vmatrix}
+    \hat{i} & \hat{j} & \hat{k} \\
+    1 & 2 & 3 \\
+    2 & 3 & 4 \\
+\end{vmatrix}
+$$
+$$
+\vec{U} \times \vec{V} = 
+(2*4 - 3*3)\hat{i} - (1*4 - 3*2)\hat{j} + (1*3 - 2*2)\hat{k} 
+$$
+$$
+= (8 - 9)\hat{i} - (4 - 6)\hat{j} + (3 - 4)\hat{k} = -\hat{i} + 2\hat{j} - \hat{k}
+$$
+Por tanto, el vector $-\hat{i} + 2\hat{j} - \hat{k}$ es perpendicular a $\vec{U}$ y $\vec{V}$.
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 6 
+Encontrar los vectores unitarios que son paralelos a la recta tangente a la función $y=x^2$ en el punto $(2,4)$.
+
+Método:
+Para la recta tangente, encontraremos la derivada de la función y evaluaremos en el punto $(2,4)$. Esa derivada es la pendiente y lo paralelo a la recta tendrá la misma pendiente. Por tanto, se buscará un vector que respete a esa pendiente y luego el vector unitario de esa pendiente. El vector que respete esa pendiente se puede conseguir, sin importar su longitud, utilizando la fórmula de la pendiente $m=\frac{y_2 - y_1}{x_2 - x_1}$, tomando la diferencia de $x$ como 1, nos quedaría la diferencia de $y$ como la pendiente, y el vector de la pendiente sería: $\vec{M} = (1, m)$
+
+Respuesta:
+$$
+y = x^2 \quad \rightarrow \quad y' = 2x 
+$$
+$$
+y'(2) = 2(2) = 4
+$$
+La pendiente nos queda 4, y según lo explicado arriba del vector de la pendiente: 
+$$
+\vec{M} = (1, 4)
+$$
+Ahora, para encontrar el vector unitario de la pendiente, lo dividimos entre su módulo, pero, existen 2 vectores unitarios, uno apuntando positivamente, otro apuntando negativamente. Serán:
+$$
+\hat{M} = \frac{\vec{M}}{|\vec{M}|} = \frac{1}{\sqrt{1^2 + 4^2}}(1, 4) = (\frac{1}{\sqrt{17}}, \frac{4}{\sqrt{17}})
+$$
+Ese es el vector unitario positivo, el negativo sería el mismo pero con signos negativos:
+$$
+-\hat{M} = -(\frac{1}{\sqrt{17}}, \frac{4}{\sqrt{17}}) = (-\frac{1}{\sqrt{17}}, -\frac{4}{\sqrt{17}})
+$$
+
+**<center> Terminado </center>**
+
+
 
 
 
