@@ -32,7 +32,7 @@ Circuitos individuales (son de 120V o 240V y 20,30,50 o 70 amperios). Todos tien
 
 AWG: es un sistema de clasificación de calibres, de la sección circular de un cable. Esta nomenclatura se basa en el número de estirados que se necesitan para producir un determinado calibre de cable.
 
-MCM: la nomencla, que tiene un diámetro de 0.46 pulgadas.tura MCM es una forma de expresar el área transversal de los conductores eléctricos en milésimas de pulgada circulares (mil circular mils). Un mil es una milésima de pulgada, y un circular mil es el área de un círculo de un mil de diámetro. Por ejemplo, un cable calibre 250 MCM tiene un área de 250,000 circular mils. La nomenclatura MCM se usa para los calibres de mayor grosor que el 0000 AWG.
+MCM: la nomenclatura MCM es una forma de expresar el área transversal de los conductores eléctricos en milésimas de pulgada circulares (mil circular mils). Un mil es una milésima de pulgada, y un circular mil es el área de un círculo de un mil de diámetro. Por ejemplo, un cable calibre 250 MCM tiene un área de 250,000 circular mils. La nomenclatura MCM se usa para los calibres de mayor grosor que el 0000 AWG.
 
 Cajetín Octogonal: se utiliza para hacer derivaciones en el cableado eléctrico.
 
