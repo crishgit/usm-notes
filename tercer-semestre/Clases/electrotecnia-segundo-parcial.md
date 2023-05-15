@@ -1,12 +1,7 @@
 Agregar: 
 - Simbolos
 - Diferencia entre circuitos preferidos y más usados
-- Investigar los tipos de cables (TW, TH, etc) (porque se usan)
-- Caida de Tensión
-- Diagrama Unipolar
-- Que son metros de circuito?
-
-
+- Que son metros de circuito? (no sé cómo buscar esto, metros de circuito son metros de un circuito xddd)
 
 Función principal del medidor:
     contador: contabiliza la cantidad de electricidad consumida (resta la energía que entra y la que sale). 
@@ -18,7 +13,7 @@ Carga Típica (w): se refiere a cuanta potencia consume un aparato en condicione
 
 Transmisión: llevar la electricidad a grandes distancias para distribuirla.
 
-* El potencial aplicado en los aparates en paralelos es igual para todos (P=VI).
+* El potencial aplicado en los aparatos en paralelos es igual para todos (P=VI).
 
 Hay dos tipos de acometidas: la interna y la externa, según se encuentre adentro del hogar o sea la acometida que se utiliza para distribuir la energía hasta el hogar. Del usuario se incluye: puesta a tierra interna e interruptor general. Del lado de suministro se requiere un punto de alimentación, conductores, ductos, tablero general de acometida, armario y puesta a tierra externa
 
@@ -30,17 +25,47 @@ Todos lso tableros tienen la función principal de distribuir electricidad.
 
 Circuitos individuales (son de 120V o 240V y 20,30,50 o 70 amperios). Todos tienen el mismo voltaje, solo cambiaría el amperaje.
 
-AWG: es un sistema de clasificación de calibres, de la sección circular de un cable. Esta nomenclatura se basa en el número de estirados que se necesitan para producir un determinado calibre de cable.
+AWG: (American Wire Gauge) es un sistema de clasificación de calibres, de la sección circular de un cable. Esta nomenclatura se basa en el número de estirados que se necesitan para producir un determinado calibre de cable.
 
-MCM: la nomenclatura MCM es una forma de expresar el área transversal de los conductores eléctricos en milésimas de pulgada circulares (mil circular mils). Un mil es una milésima de pulgada, y un circular mil es el área de un círculo de un mil de diámetro. Por ejemplo, un cable calibre 250 MCM tiene un área de 250,000 circular mils. La nomenclatura MCM se usa para los calibres de mayor grosor que el 0000 AWG.
+MCM: la nomencla, que tiene un diámetro de 0.46 pulgadas.tura MCM es una forma de expresar el área transversal de los conductores eléctricos en milésimas de pulgada circulares (mil circular mils). Un mil es una milésima de pulgada, y un circular mil es el área de un círculo de un mil de diámetro. Por ejemplo, un cable calibre 250 MCM tiene un área de 250,000 circular mils. La nomenclatura MCM se usa para los calibres de mayor grosor que el 0000 AWG.
 
-Cajetín Octogonal: se utiliza para hacer derivaciones en el cableado eléctrico.
+Terminología en cables: La nomenclatura para la cubierta de los cables eléctricos se compone de una letra que indica el tipo de material utilizado para la cubierta seguido de otra letra que indica la función de dicho recubrimiento.  Casi todos los cables tienen una capa de recubrimiento o aislamiento para prevenir que entren en contacto unos con otros y provoquen un cortocircuito.
+          Los cables que se utilizan para instalaciones en viviendas y oficinas son: THN, THW, THHW y THWN. El significado de estas abreviaturas es el siguiente:
+
+   1  - T (Thermoplastic): Aislamiento termoplástico (este lo tienen todos los cables.
+
+   2  - H (Heat resistant): Resistente al calor hasta 75° centígrados (167° F).
+
+   3  - HH (Heat resistant): Resistente al calor hasta 90° centígrados (194° F).
+
+   4  - W (Water resistant): Resistente al agua y a la humedad.
+
+   5  - LS (Low smoke): Este cable tiene baja emisión de humos y bajo contenido de gases contaminantes. 
+
+   6  - SPT (Service paralell thermoplastic): Esta nomenclatura se usa para identificar un cordón que se compone de dos cables flexibles y paralelos        con aislamiento de plástico y que están unidos entre sí. También se denomina cordón dúplex.
+   
+  En los aislamientos de los cables eléctricos encontramos dos tipos de aislantes, los aislamientos termoplásticos y los aislamientos termoestables.
+
+   Aislamiento termoplástico                                                                
+   PVC: Policloruro de vinilo
+   PE: Polietileno
+   PCP: Policloropreno, neopreno o plástico
+   
+  Aislamiento termoestable
+  XLPE: Polietileno reticulado
+  EPR: Etileno-propileno
+  MICC: Cobre revestido, mineral aislado
+
+ 
+ Diagrama Unifilar: es un diagrama que muestra los componentes eléctricos uno enseguida de otro hasta completar toda la instalación eléctrica. Es el plano eléctrico más común que identifica y suministra información sobre las dimensiones de los componentes principales del sistema de alambrado eléctrico y muestra cómo la potencia es distribuida desde la fuente, habitualmente la acometida, hasta el equipo de utilización
+ 
+Cajetín Octogonal: se utiliza para hacer derivaciones en el cableado eléctrico. Poseen orificios con tapas fácilmente removibles. Se utilizan para conectar y proteger cables eléctricos.
 
 Breaker doble: es un breaker que tiene dos interruptores, uno para cada fase. Por tanto, cuenta con tres cables, dos activos y un neutro.
 
 Sistema todo lo que tenga que ver con la conexión.
 
-Sistema monofásico: 1 solo activo y 1 neutro, conexiones de 110V.
+Sistema monofásico: 1 solo activo y 1 neutro, conexiones de 110V. Una fase. La corriente fluye en una dirección.
 
 Sistema Trifásico: 2 activos y 1 neutro, conexiones de 220V.
 
@@ -52,14 +77,14 @@ Tablero de control: es el tablero que controla el funcionamiento de los motores.
 
 Tablero de transferencia: es el tablero que permite transferir la energía de una fuente a otra.
 
-Capacidad del conductor = carga máxima ?
+Capacidad del conductor = Se refiere a la carga máxima de un conductor ?
 La norma venezolana dice que los cable calibre 14 no se pueden usar para instalaciones eléctricas (como mucho, pueden usarse para intercomunicadores)
 
-Caida de Tensión: (investigar)
+Caida de Tensión: es la diferencia de potencial eléctrico entre dos puntos de un circuito o conductor por donde pasa una corriente. Se mide en voltios o en porcentaje de la tensión nominal de la fuente. Se produce por la resistencia eléctrica de los materiales, que se opone al flujo de la corriente. PD: Aumenta con la distancia a la fuente de alimentación.
 
+Conductor a tierra: ES un cable o barra de metal conectado físicamente a tierra con el objetivo de estableer una ruta de baja resistencia para la corriente de falla a tierra. Esto contribuye a proteger a las personas y los equipos eléctricos de las sobretensiones peligrosas y los cortocircuitos.
 
-
-
+Corte: Se refiere a la acción de interrumpir el flujo de corriente eléctrica en un circuito eléctrico.
 
 #### INFORMACIÓN DEL MANUAL Y LA GUÍA ####
 Pag 12:
@@ -134,4 +159,4 @@ Página 67: que es la caida de tensión. (no se pueden usar cables #14 en la nor
 Página 68: Largos permisibles según el calibre del tipo de cable 
 Página 73: tipo de conductor: primera letra es el material del recubrimiento, la segunda letra es el uso del recubrimiento. Investigar las terminaciones. (TWRH) (TR materiales)
 
-Investigar: carga concentrada y metros de circuitos 
+Carga Concentrada: es la carga aplicada sobre un área relativamente pequeña, distribuida sobre una porción de un área (es decir una carga que se encuentra en un punto específico del circuito). Por ejemplo, una batería o un capacitor son ejemplos de cargas concentradas. En contraste, una carga distribuida es una carga eléctrica que se extiende a lo largo de una región del circuito.
