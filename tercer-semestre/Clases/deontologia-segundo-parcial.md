@@ -215,3 +215,64 @@ Defensoría del Pueblo:
  Se encarga de:
   -Organizar los eventos electorales públicos y privados del país.
   -Organizar los eventos de referendum (eventos de organización pública, en la que los ciudadanos pueden dar su opinión).
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## Tercera clase.
+
+Aristóteles -> Ciencia de la felicidad
+
+Si es ciencia, es lo mismo para todos 
+La voluntad es querer 
+Potencia superior -> La inteligencia y la voluntad 
+Potencia inferior -> *Interiores y exteriores 
+Interiores: memorias e imaginación
+Exteriores: 5 sentidos
+
+¿Por qué la vista y el oido son mejores sentidos? Es lo infinito y no limita y de ahí viene la cautividad (las mamadas me las haces abajo porfa).
+
+¿Qué tiene límite, la inteligencia o la voluntad? La inteligencia tiene límite porque o sino sería Dios y no somos Dios (aaaah que ricas mamadas).
+
+Artículo 1637 del código civil venezolano (responsabilidad decenal):
+" Si en el curso de diez años, a contar desde el día en que se ha terminado la construcción de un edificio o de una obra importante o considerable, uno u otra se arruinaren en todo o en parte, o presentaren evidente peligro de ruina por defectos de construcción o por vicio del suelo, el arquitecto y el empresario son responsables. La acción de indemnización debe intentarse dentro de dos años a contar desde el día en que se ha verificado uno de los casos mencionados"
+(falta un fragmento que el profesor colocó, buscar el código civil)
+
+Derecho Público: no permite relajar, renunciar, modificar o extinguir las relaciones jurídicas entre los involucrados. (revisar mejor esto).
+
+Derecho Privado: tiene como hija el derecho civil que tiene como biblia el código civil.
+
+*El derecho privado no es excluyente de las leyes.
+
+Características de obras que son consideradas para el artículo 1637:
+- No deben ser perecederas
+- Tenga importancia económica
+- Esté involucrado el incurso de un profesional del curso de ingeniería. 
+
+El título es el papel que nos reconoce como ingenieros a todo nivel nacional (sexo)
+En el código civil, arquitecto se utiliza incluyendo a los ingeniero, al ser la arquitectura antes de la ingeniería y al construirse el colegio de ingenieros luego de la redacción del código civil.
+
+¿Qué es concurrente? Sabrá.
+
+(importante investigar sobre las ruinas, el profesor colocará un ejercicio)
+La ruina de una obra: es la muerte de la misma. Puede ser parcial o total. Tipos de ruina
+- Ruina total: cuando la obra se cae toda.
+- Ruina parcial: cuando la obra se cae en parte (no todo daño es ruina perse).
+- Ruina funcional: cuando la obra no cumple con su función.
+- Peligro de ruina: cuando no ha sucedido la ruina en sí pero es evidente que sucederá.
+
+Causas de la ruina:
+- Defectos de construcción: cuando la obra se cae por un error de construcción.
+- Vicio del suelo: cuando la obra se cae por un error del suelo (por ejemplo, un terremoto).
+
+* (investigar) Verificado no es lo mismo que comprobado
+
+Perjuicios:
+- Daño directo: es el producto dañino directo de la acción
+- Daño indirecto: es la consecuencia póstuma de un daño.
+Ejemplo: atropellar a un peatón implica el daño directo de las lesiones que el choque le provoque, pero luego implica un perjuicio póstumo al no poder desarrollar actividades como trabajar durante su recuperación. En un tribunal será indeminzado no solo por los costos médicos del accidente, se le tendrá que retribuir su salario por el tiempo que se encuentre incapacitado, esto lo asumirá el agresor.
+
+
+
