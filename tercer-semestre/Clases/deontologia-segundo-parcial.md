@@ -1,4 +1,5 @@
-1                  /             Constitución              \      Pirámide de Kelsen
+## Pirámide de Kelsen
+1                  /             Constitución              \      
 2                 /             Leyes Orgánicas             \   
 3                /              Leyes especiales             \
 4               /               Leyes ordinaria               \
@@ -17,9 +18,9 @@ Tipos de derecho en pareja
 
 El positivo tiene un conjunto de normas
 
-Sobre la pirámide. Klsen piensa que el derecho debe verse como una ciencia.
+Sobre la pirámide. Kelsen piensa que el derecho debe verse como una ciencia.
 
-1)Derecho Natural: Conjunto de principios que son inherentes al ser humano. Nacemos con ese derecho (la libertad o la vida, por ejemplo).
+1) Derecho Natural: Conjunto de principios que son inherentes al ser humano. Nacemos con ese derecho (la libertad o la vida, por ejemplo).
 
 Una persona es todo ente susceptible.
 En Venezuela alguien es persona antes de ser concebido.
@@ -162,9 +163,13 @@ El Poder Público tienen3 niveles: Nacional, Estadal (Gobernaciones) y Municipal
 4ta República --> Descentralización.
 Actualmente estamos centralizados y desorganizados.
 
------------------------------------------------------------------------------------------------------------------------------------------------
 
-Segunda clase.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+## Segunda clase.
 
 
 Descentralización --> Orden (Es el camino a seguir).
