@@ -1,4 +1,5 @@
-## Pirámide de Kelsen
+# Primera clase
+#### Pirámide de Kelsen
 1                  /             Constitución              \      
 2                 /             Leyes Orgánicas             \   
 3                /              Leyes especiales             \
@@ -169,7 +170,7 @@ Actualmente estamos centralizados y desorganizados.
 &nbsp;
 &nbsp;
 &nbsp;
-## Segunda clase.
+# Segunda clase.
 
 
 Descentralización --> Orden (Es el camino a seguir).
@@ -221,7 +222,7 @@ Defensoría del Pueblo:
 &nbsp;
 &nbsp;
 &nbsp;
-## Tercera clase.
+# Tercera clase.
 
 Aristóteles -> Ciencia de la felicidad
 
