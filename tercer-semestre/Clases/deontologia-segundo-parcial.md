@@ -277,5 +277,7 @@ En el código civil, arquitecto se utiliza incluyendo a los ingeniero, al ser la
 - Daño indirecto: es la consecuencia póstuma de un daño.
 Ejemplo: atropellar a un peatón implica el daño directo de las lesiones que el choque le provoque, pero luego implica un perjuicio póstumo al no poder desarrollar actividades como trabajar durante su recuperación. En un tribunal será indeminzado no solo por los costos médicos del accidente, se le tendrá que retribuir su salario por el tiempo que se encuentre incapacitado, esto lo asumirá el agresor.
 
-
+**Detalles de la aplicación del artículo 1637**
+- Todos los involucrados pagan en partes iguales. Pueden pagar más si desean.
+- Los involucrados no solo incluyen al ingeniero y al empresario, también incluye a otros intemerdiarios que puedan verse involucrados, como un banco, o el vendedor del terreno. Asumen la responsabilidad todos los elementos relacionados con construcción/venta/propiedad anterior de la estructura.
 
