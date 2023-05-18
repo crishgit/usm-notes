@@ -39,7 +39,7 @@ Imperium (no escuché bien esta parte, toca investigar):
 
 Diferencia entre gobierno y Estado:
 El gobierno es temporal, mientras que el Estado es para siempre.
-El estad se divide en: Poder, Territorio y Población.
+El Estado se divide en: Poder, Territorio y Población.
 
 Ciudadano: Es toda persona que ejerce sus derechos civiles (todo lo que se le atribuye como perona) y políticos (ser elegido y elegir).
 (Para ser elegidose requiere ser mayor de 18 años y estar en el Registro Electoral)
@@ -71,7 +71,7 @@ El Estado es persona Jurídica, así como la iglesia y las empresas.
 
 Ser Objeto = Ser Apropiado.
 
-La principal diferencia entre una cosa y un bien es que la primera es ub onjeto de derecho, mientras que la segunda tiene dueño, por lo que se clasifica como una cosa apropiada.
+La principal diferencia entre una cosa y un bien es que la primera es un objeto de derecho, mientras que la segunda tiene dueño, por lo que se clasifica como una cosa apropiada.
 
 Las personas son sujetos de derecho.
 
@@ -100,7 +100,7 @@ Sobre la Pirámide.....
  - Las que sirven de marco teórico a otras leyes.
  - Las que desarrollan y establecen el Poder Público.
 
-3) Leyes especiales: Leyes que tienen una materia espec+ifica y tienen tribunal con esa competencia.
+3) Leyes especiales: Leyes que tienen una materia específica y tienen tribunal con esa competencia.
 
 4) Leyes ordinarias (Leyes normales): Aquellas que se forman bajo el criterio establecido por la constitución.
 
