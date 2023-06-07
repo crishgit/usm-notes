@@ -121,7 +121,7 @@ $$
 $$
 
 #### Matriz Inversa
-La matriz inversa de una matriz **A** es la matriz **A<sup>-1</sup>** tal que **A * A<sup>-1</sup> = I** (matriz identidad). La terminante debe ser distinta de 0.
+La matriz inversa de una matriz **A** es la matriz **A<sup>-1</sup>** tal que **A * A<sup>-1</sup> = I** (matriz identidad). La determinante debe ser distinta de 0.
 $$
 A * A^{-1} = 
 \begin{bmatrix} 
@@ -204,6 +204,60 @@ $$
     0 & 0 & 2 
 \end{bmatrix}
 $$
+
+# Cálculo de Matriz Inversa
+#### Gauss-Jordan
+Se crea una nueva matriz con la matriz A y la matriz identidad del tamaño de A, ambas pegadas por una raya vertical: $[A|I]$ . Se realiza el método de Gauss-Jordan sobre la matriz A, y el resultado de la anterior matriz identidad es la matriz inversa.
+
+###### Ejemplo
+$$
+A =
+\begin{bmatrix} 
+    2 & 1 & 3 \\
+    -1 & 2 & 4 \\
+    0 & 1 & 3 
+\end{bmatrix}
+\quad
+I =
+\begin{bmatrix} 
+    1 & 0 & 0 \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 
+\end{bmatrix}
+$$
+$$
+[A|I] =
+\begin{bmatrix} 
+    2 & 1 & 3 & | & 1 & 0 & 0 \\
+    -1 & 2 & 4 & | & 0 & 1 & 0 \\
+    0 & 1 & 3 & | & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix} 
+    -40 & 0 & 0 & | & -20 & 0 & 20 \\
+    0 & 20 & 0 & | & 15 & 30 & -55 \\
+    0 & 0 & -4 & | & 1 & 2 & -5 
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+    1 & 0 & 0 & | & 1/2 & 0 & -1/2 \\
+    0 & 1 & 0 & | & 3/4 & 3/2 & -11/4 \\
+    0 & 0 & 1 & | & -1/4 & -1/2 & 5/4
+\end{bmatrix}
+$$
+
+Entonces, 
+$$
+A^{-1} = \begin{bmatrix} 
+    1/2 & 0 & -1/2 \\
+    3/4 & 3/2 & -11/4 \\
+    -1/4 & -1/2 & 5/4
+\end{bmatrix}
+$$
+
+
 
 # Fuentes:
 [mat-iii-matrices.pptx](../../laminas-profesor/mat-iii-matrices.pptx)
