@@ -208,10 +208,16 @@ Por tanto, el vector $-\hat{i} + 2\hat{j} - \hat{k}$ es perpendicular a $\vec{U}
 # Práctica 6 
 Encontrar los vectores unitarios que son paralelos a la recta tangente a la función $y=x^2$ en el punto $(2,4)$.
 
-Método:
-Para la recta tangente, encontraremos la derivada de la función y evaluaremos en el punto $(2,4)$. Esa derivada es la pendiente y lo paralelo a la recta tendrá la misma pendiente. Por tanto, se buscará un vector que respete a esa pendiente y luego el vector unitario de esa pendiente. El vector que respete esa pendiente se puede conseguir, sin importar su longitud, utilizando la fórmula de la pendiente $m=\frac{y_2 - y_1}{x_2 - x_1}$, tomando la diferencia de $x$ como 1, nos quedaría la diferencia de $y$ como la pendiente, y el vector de la pendiente sería: $\vec{M} = (1, m)$
+#### Método:
+Notar que el ejercicio solicita un vector unitario paralelo a la recta tangente. Por tanto, explícitamente no necesitamos la recta, necesitamos: un vector adentro de la recta, que por definición al estar adentro de la recta sería paralelo en concepto de vector, y luego buscar el unitario.
 
-Respuesta:
+Notamos, por tanto, que como es un vector, no está explícitamente posicionado en el espacio y eso nos permite solo trabajar con la dirección y sentido de la pendiente de la recta. Además, tampoco importa la magnitud del vector, después de todo obtendremos el vector unitario luego de obtener el vector.
+
+Por lo expresado anteriormente, el vector solo debe respetar la pendiente. Esto se logra a través de la primera derivada de la función calculada en el punto en el cual queremos que sea perpendicular. Obtenida la pendiente, buscaremos un vector que respete esta pendiente.
+
+En el caso del ejercicio, tenemos que el vector tiene dos dimensiones, al igual que la recta. Por tanto, buscamos ambas dimensiones del vector $\vec{V}:(x, \quad y)$. Por definición, tenemos que una pendiente es de la forma $m = \frac{\Delta y}{\Delta x}$. De esa fórmula podemos obtener las dimensiones del vector paralelo a esa recta.
+
+#### Respuesta:
 $$
 y = x^2 \quad \rightarrow \quad y' = 2x 
 $$
@@ -233,6 +239,105 @@ $$
 
 **<center> Terminado </center>**
 
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 7
+Demostrar que los puntos $P(0, \quad -2, \quad 4)$, $Q(1, \quad -3, \quad 5)$ y $R(4, \quad -6, \quad 8)$ son colineales.
+
+#### Método:
+1) 
+Con colineales se hace referencia a que los puntos están en la misma recta. Por tanto, si los puntos están en la misma recta, entonces la pendiente entre dos puntos cualesquiera de los 3 puntos debe ser la misma. Por tanto, si la pendiente entre $P$ y $Q$ es igual a la pendiente entre $Q$ y $R$, entonces los 3 puntos están en la misma recta.
+
+Para calcular esa pendiente, usamos la fórmula de la pendiente entre dos puntos:
+$$
+m = \frac{y_2 - y_1}{x_2 - x_1}
+$$
+Y como tenemos 3 puntos, podemos calcular 2 pendientes, y si son iguales, entonces los 3 puntos están en la misma recta.
+
+2) 
+Otra posibilidad es crear vectores entre los puntos, y si son paralelos, entonces los puntos están en la misma recta, por definición de vectores paralelos. Esto se haría, por ejemplo, con los vectores $\vec{PQ}$ y $\vec{PR}$, luego viendo si cumplen la característica de perpendicular entre vectores $\vec{PQ} = k\vec{PR}$, si lo cumple, ambos pertenecen a la misma recta y por tanto los pts que lo conforman pertenecen también a la misma recta.
+
+#### Respuesta:
+1)
+$$
+    m_{PQ} = \frac{-3 - (-2)}{1 - 0} = \frac{-1}{1} = -1 
+$$
+$$
+    m_{QR} = \frac{-6 - (-3)}{4 - 1} = \frac{-3}{3} = -1 
+$$
+Como ambas pendientes son iguales, entonces los 3 puntos están en la misma recta.
+
+2)
+$$
+    \vec{PQ} = (1 - 0, \quad -3 - (-2), \quad 5 - 4) = (1, \quad -1, \quad 1)
+$$
+$$
+    \vec{PR} = (4 - 0, \quad -6 - (-2), \quad 8 - 4) = (4, \quad -4, \quad 4)
+$$
+$$
+    \vec{PQ} = k\vec{PR} \quad \rightarrow \quad (1, \quad -1, \quad 1) = k(4, \quad -4, \quad 4)
+$$
+$$
+    \frac{1}{4} = \frac{-1}{-4} = \frac{1}{4} \quad \rightarrow \quad k = \frac{1}{4}
+$$
+Por tanto, los vectores son paralelos, y por tanto los puntos están en la misma recta.
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 8
+¿Qué restricciones deben tener $x, \quad y, \quad z$, para que el punto $(x,y,z)$ se encuentre:
+a) sobre el eje y 
+b) sobre el eje z
+c) en el plano xz
+d) en el plano yz
+
+#### Método:
+a) como es sobre el eje y, entonces es una combinación lineal del unitario de y. Por tanto, el vector sería expresado de la forma $\vec{V} = k\hat{y}$. Podemos observar, por tanto, que no cuenta con valores para $x$ o $z$.
+
+b) como es sobre el eje z, entonces es una combinación lineal del unitario de z. Por tanto, el vector sería expresado de la forma $\vec{V} = k\hat{z}$. Podemos observar, por tanto, que no cuenta con valores para $x$ o $y$.
+
+c) como es sobre el plano xz, entonces es una combinación lineal de los unitarios de x y z. Por tanto, el vector sería expresado de la forma $\vec{V} = k\hat{x} + l\hat{z}$. Podemos observar, por tanto, que no cuenta con valores para $y$.
+
+d) como es sobre el plano yz, entonces es una combinación lineal de los unitarios de y y z. Por tanto, el vector sería expresado de la forma $\vec{V} = k\hat{y} + l\hat{z}$. Podemos observar, por tanto, que no cuenta con valores para $x$.
+
+#### Respuesta:
+a) (0, y, 0)
+b) (0, 0, z)
+c) (x, 0, z)
+d) (0, y, z)
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 9
+Calcular el vector unitario del vector $\vec{V} = (-4, \quad 2, \quad 4)$.
+
+#### Método:
+Para calcular el vector unitario, debemos dividir el vector entre su módulo. El módulo de un vector se calcula con la fórmula:
+$$
+    |\vec{V}| = \sqrt{x^2 + y^2 + z^2}
+$$
+
+#### Respuesta:
+$$
+    |\vec{V}| = \sqrt{(-4)^2 + 2^2 + 4^2} = \sqrt{16 + 4 + 16} = \sqrt{36} = 6 
+$$
+$$
+    \hat{V} = \frac{\vec{V}}{|\vec{V}|} = \frac{1}{6}(-4, \quad 2, \quad 4) = (-\frac{4}{6}, \quad \frac{2}{6}, \quad \frac{4}{6}) = (-\frac{2}{3}, \quad \frac{1}{3}, \quad \frac{2}{3})
+$$
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 10
 
 
 
