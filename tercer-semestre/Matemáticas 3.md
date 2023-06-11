@@ -8,6 +8,7 @@ Cuarto Parcial: **30/06/2023**
 ## 1) Primer Parcial:
 - [Vectores](./Clases/vectores.md)
 - [Espacios Vectoriales](./Clases/espacios-vectoriales.md)
+- [Combinaciones Lineales](./Clases/combinaciones-lineales.md)
 - [Figuras geométricas](./Clases/figuras-geometricas.md)
 - [Geometría Vectorial](./Clases/geometria-vectorial.md)
 - [Matrices y Determinantes](./Clases/matrices-determinantes.md)
