@@ -338,9 +338,70 @@ $$
 &nbsp;
 &nbsp;
 # Práctica 10
+Sea $C$ el punto sobre el segmento $\overline{AB}$ tal que la distancia del punto $C$ al punto $B$ es el doble que la distancia del punto $C$ al punto $A$. Sean $\vec{a} = \overline{OA}$; $\vec{b} = \overline{0B}$; $\vec{c} = \overline{0C}$; (donde el punto $0$ es el origen).
+Demostrar que $\vec{c} = \frac{2}{3}\vec{a} + \frac{1}{3}\vec{b}$.
 
+#### Método:
+En este caso se debe considerar que la distancia del punto $C$ con el punto $B$ y $A$, puede expresarse como una relación de vectores, con un escalar modificando la magnitud del vector. El escalar lo obtenemos del enunciado y para poder hacer la transformación de la magnitud para obtener otro vector, ambos deben estar en la misma dirección, por tanto los vectores serían en las direcciones: $A \rightarrow C$ y $C \rightarrow B$
 
+#### Respuesta:
+$$ \vec{CB} = 2 \vec{AC} $$
+$$ \vec{B} - \vec{C} = 2\vec{C} - 2\vec{A} $$
+$$ 3\vec{C} = 2\vec{B} + \vec{A} $$
+$$ \vec{C} = \frac{2}{3}\vec{B} + \frac{1}{3}\vec{A} $$
 
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 11
+Si $\vec{a} = (3, \quad 2)$, $\vec{b} = (2, \quad -1)$, $\vec{c} = (7, \quad 1)$
+Calcular: $\vec{c} = s\vec{a} + t\vec{b}$
+
+#### Método:
+Para calcular los escalares $s$ y $t$, debemos plantear un sistema de ecuaciones, donde cada ecuación corresponde a una componente del vector. Por tanto, el sistema de ecuaciones quedaría de la siguiente forma:
+$$
+    \begin{cases}
+        7 = 3s + 2t \\
+        1 = 2s - t
+    \end{cases}
+$$
+
+#### Respuesta:
+Resolvemos el sistema de ecuaciones:
+$$
+    \begin{cases}
+        7 = 3s + 2t \\
+        1 = 2s - t
+    \end{cases}
+    \quad \rightarrow \quad
+    \begin{cases}
+        s = (7 - 2t) / 3 \\
+        1 = 2s - t
+    \end{cases}
+    \quad \rightarrow \quad
+    \begin{cases}
+        s = (7 - 2t) / 3 \\
+        1 = 2((7 - 2t) / 3) - t 
+    \end{cases}
+$$
+Y despejamos $t$:
+$$
+    1 = \frac{14 - 4t}{3} - t \quad \rightarrow \quad 
+    3 = 14 - 4t - 3t \quad \rightarrow \quad 
+    3 = 14 - 7t \quad \rightarrow \quad 
+    7t = 11 \quad \rightarrow \quad 
+    t = 11/7
+$$
+Y sustituimos $t$ en la ecuación de $s$:
+$$
+    s = (7 - 2(11/7)) / 3 \quad \rightarrow \quad 
+    s = (7 - 22/7) / 3 \quad \rightarrow \quad 
+    s = (49/7 - 22/7) / 3 \quad \rightarrow \quad 
+    s = 27/21 \quad \rightarrow \quad 
+    s = 9/7
+$$
 
 
 
