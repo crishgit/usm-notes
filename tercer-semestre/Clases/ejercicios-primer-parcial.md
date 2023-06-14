@@ -403,6 +403,112 @@ $$
     s = 9/7
 $$
 
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 12 
+Si $\vec{u} + \vec{v} + \vec{w} = \vec{0}$, $|\vec{u}| = \frac{5}{2}$, $|\vec{v}| = \frac{3}{2}$, $|\vec{w}| = 2$.
+Calcular $\vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{w}$
+
+#### Método:
+1) Producto punto de cada vector con la fórmula inicial igualada a $\vec{0}$.
+2) Con las tres fórmulas, hacer suma de las tres.
+3) Despejar el producto punto que buscamos.
+
+#### Respuesta:
+Producto punto con $\vec{u}$:
+$$
+    \vec{u} \cdot (\vec{u} + \vec{v} + \vec{w}) = \vec{u} \cdot \vec{0} 
+$$
+$$
+    \vec{u} \cdot \vec{u} + \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} = 0
+$$
+
+Producto punto con $\vec{v}$:
+$$
+    \vec{v} \cdot (\vec{u} + \vec{v} + \vec{w}) = \vec{v} \cdot \vec{0}
+$$
+$$
+    \vec{v} \cdot \vec{u} + \vec{v} \cdot \vec{v} + \vec{v} \cdot \vec{w} = 0
+$$
+
+Producto punto con $\vec{w}$:
+$$
+    \vec{w} \cdot (\vec{u} + \vec{v} + \vec{w}) = \vec{w} \cdot \vec{0}
+$$
+$$
+    \vec{w} \cdot \vec{u} + \vec{w} \cdot \vec{v} + \vec{w} \cdot \vec{w} = 0
+$$
+
+Sumamos las tres ecuaciones:
+$$
+    \vec{u} \cdot \vec{u} + \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{u} + \vec{v} \cdot \vec{v} + \vec{v} \cdot \vec{w} + \vec{w} \cdot \vec{u} + \vec{w} \cdot \vec{v} + \vec{w} \cdot \vec{w} = 0
+$$
+
+Agrupando los terminos iguales:
+$$
+    \vec{u} \cdot \vec{u} + 2\vec{u} \cdot \vec{v} + 2\vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{v} + 2\vec{v} \cdot \vec{w} + \vec{w} \cdot \vec{w} = 0
+$$
+
+Sabiendo que $\vec{v} \cdot \vec{v} = |v|^2$ para un $\vec{v}$ cualquiera:
+$$
+    |\vec{u}|^2 + 2\vec{u} \cdot \vec{v} + 2\vec{u} \cdot \vec{w} + |\vec{v}|^2 + 2\vec{v} \cdot \vec{w} + |\vec{w}|^2 = 0
+$$
+
+Se pasan al otro lado los términos que no contengan el producto punto que buscamos:
+$$
+    \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{w} = -\frac{1}{2} (|\vec{u}|^2 + |\vec{v}|^2 + |\vec{w}|^2)
+$$
+
+Sustituimos los valores de los módulos:
+$$
+    \vec{u} \cdot \vec{v} + \vec{u} \cdot \vec{w} + \vec{v} \cdot \vec{w} = -\frac{1}{2} (\frac{25}{4} + \frac{9}{4} + 4) = (-\frac{1}{2}) (\frac{50}{4}) = -\frac{25}{4}
+$$
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 13
+Demostrar que los vectores $a \vec{b} + \vec{a} b$ y $a \vec{b} - \vec{a} b$ son ortogonales (perpendiculares).
+
+#### Método:
+Dos vectores son ortogonales si su producto punto es igual a cero. Por lo tanto, calculamos el producto punto de los dos vectores y demostramos que es igual a cero.
+
+#### Respuesta:
+$$
+    (a \vec{b} + \vec{a} b) \cdot (a \vec{b} - \vec{a} b) = 0
+$$
+$$
+    a^2 \vec{b} \cdot \vec{b} - a \vec{b} \cdot \vec{a} b +  a \vec{b} \cdot \vec{a} b - b^2  \vec{a} \cdot \vec{a} = 0
+$$
+$$
+    a^2 |\vec{b}|^2 - b^2 |\vec{a}|^2 = 0
+$$
+$$
+    a^2 b^2 - a^2 b^2 = 0
+$$
+$$
+    0 = 0
+$$
+Al ser igual a cero el producto punto, los vectores son ortogonales.
+
+**<center> Terminado </center>**
+
+&nbsp;
+&nbsp;
+&nbsp;
+# Práctica 14
+
+
+
+
+
+
+
 
 
 
